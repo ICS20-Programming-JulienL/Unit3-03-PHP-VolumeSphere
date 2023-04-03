@@ -1,0 +1,19 @@
+/* Created by: Julien Lamoureux
+* Created on: April 2023
+* This CSS file defines the style for index.php
+* Unit3-03-PHP-VolumeSphere
+*/
+
+body {
+  background-color: #f6eaf4;
+}
+
+h3 {
+  background-color: #ffa3ee;
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  color: #ff0088;
+}
